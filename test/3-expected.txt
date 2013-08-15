@@ -1,0 +1,4 @@
+This is a text file for tests. abc will be replaced.
+Duplicated "This text was in b.txt" will be replaced.
+This "This text was in b.txt" will be also replaced.
+c/d/e dosen't exist.

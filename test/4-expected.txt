@@ -1,0 +1,4 @@
+This is a text file for tests. abc will be replaced.
+Duplicated bcd will be replaced.
+This bcd will be also replaced.
+c/d/e dosen't exist.

@@ -1,0 +1,5 @@
+This is a text file for tests. "Multi lines in c.txt
+are inserted!" will be replaced.
+Duplicated bcd will be replaced.
+This bcd will be also replaced.
+c/d/e dosen't exist.
