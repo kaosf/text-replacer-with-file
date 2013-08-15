@@ -1,5 +1,9 @@
 # Text Replacer with File
 
+## Test
+
+`./test/run.sh`
+
 ### About shUnit2
 
 [shUnit2](http://code.google.com/p/shunit2/) is a xUnit for ShellScript.
