@@ -103,3 +103,7 @@ An official documentation is [here](http://shunit2.googlecode.com/svn/trunk/sour
 ## References
 
 * [改行を置換したい | skmks](http://unicus.jp/skmk/archives/315)
+
+## License
+
+[MIT](http://opensource.org/licenses/MIT)
