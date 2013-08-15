@@ -99,3 +99,7 @@ Should this behavior return not 0? Behave as an error?
 Download it from [here](http://code.google.com/p/shunit2/) (I've downloaded `shunit2-2.1.6.tgz`) and extract it. Then, copy `src/shunit2` into `test` directory.
 
 An official documentation is [here](http://shunit2.googlecode.com/svn/trunk/source/2.1/doc/shunit2.html). Refer it to know how to use shUnit2 more.
+
+## References
+
+* [改行を置換したい | skmks](http://unicus.jp/skmk/archives/315)
