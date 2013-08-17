@@ -1,5 +1,7 @@
 # Text Replacer with File
 
+Version 0.2.0
+
 ## Installation
 
 Copy `text-replacer-with-file` to a directory that is in your PATH.
