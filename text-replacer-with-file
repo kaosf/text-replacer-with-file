@@ -4,4 +4,4 @@ TARGET_FILE=$1
 REPLACED_TEXT=$2
 INSERTED_FILE=$3
 
-sed -e "s/$REPLACED_TEXT/$(cat $INSERTED_FILE | sed -e ':loop; N; $!b loop; ; s/\n/\\n/g')/" -i $TARGET_FILE
+sed -e "s|$REPLACED_TEXT|$(cat $INSERTED_FILE | sed -e ':loop; N; $!b loop; ; s/\n/\\n/g')|" -i $TARGET_FILE
