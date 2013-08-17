@@ -9,7 +9,6 @@ argvs = sys.argv
 argc = len(argvs)
 
 if (argc != 4):
-    print("4 arguments is needed")
     quit()
 
 target_filename= argvs[1]
@@ -23,10 +22,6 @@ insert_txt = str.rstrip(insertfile.read())
 tmp_filename = 'tmp_file000'
 tmp_file = open(tmp_filename,'w+')
 
-print(argvs[3])
-
-print("pattern : " + pattern)
 for line in target_txt:
     tmp_file.write(re.sub(re.compile(pattern),insert_txt,line))
-print(tmp_file)
 os.rename(tmp_filename,target_filename)
